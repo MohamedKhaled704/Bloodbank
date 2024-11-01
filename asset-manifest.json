@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Bloodbank/static/css/main.41889cde.css",
+    "main.js": "/Bloodbank/static/js/main.5ce1824b.js",
+    "static/js/787.bd02f72e.chunk.js": "/Bloodbank/static/js/787.bd02f72e.chunk.js",
+    "static/media/river.jfif": "/Bloodbank/static/media/river.d60ea6464e2335e03a0f.jfif",
+    "static/media/banner_1.jpg": "/Bloodbank/static/media/banner_1.bb7cc7313653e131f283.jpg",
+    "static/media/gettyimages-1307735164-612x612.jpg": "/Bloodbank/static/media/gettyimages-1307735164-612x612.898aca538e036b90be1d.jpg",
+    "static/media/TableBG.webp": "/Bloodbank/static/media/TableBG.429c8b9a4c42cd4b0aff.webp",
+    "static/media/localisation.svg": "/Bloodbank/static/media/localisation.b61e9e704bd88fe73e91dd1563c6d3d6.svg",
+    "static/media/woman-superhero-svgrepo-com.svg": "/Bloodbank/static/media/woman-superhero-svgrepo-com.fbb2dc5b1f9e63834bf046ba724a81af.svg",
+    "static/media/medals-reward-price-svgrepo-com.svg": "/Bloodbank/static/media/medals-reward-price-svgrepo-com.744406b51a0c2a9cc37fb7aba4525eb1.svg",
+    "static/media/OIP.jfif": "/Bloodbank/static/media/OIP.2e20f6db7a6da2a6f486.jfif",
+    "static/media/creativity-think-svgrepo-com.svg": "/Bloodbank/static/media/creativity-think-svgrepo-com.0676e034eea2919e88f77e2a1e951848.svg",
+    "static/media/blood-donation-svgrepo-com.svg": "/Bloodbank/static/media/blood-donation-svgrepo-com.147a034a65f3e7adc162f264d1e622c8.svg",
+    "static/media/subheader.svg": "/Bloodbank/static/media/subheader.5ebf5a7445e0c834a322.svg",
+    "static/media/notification-svgrepo-com.svg": "/Bloodbank/static/media/notification-svgrepo-com.d792102b336306524245227d7326d568.svg",
+    "static/media/care-day-health-svgrepo-com.svg": "/Bloodbank/static/media/care-day-health-svgrepo-com.631767f8b6d525bb48dd71018a5fb71a.svg",
+    "static/media/sms-svgrepo-com.svg": "/Bloodbank/static/media/sms-svgrepo-com.e124820077c04964903cab84c936e815.svg",
+    "static/media/connection-internet-network-online-shop-shopping-svgrepo-com.svg": "/Bloodbank/static/media/connection-internet-network-online-shop-shopping-svgrepo-com.f647910c09c49929e81828b7b0eb8acd.svg",
+    "static/media/free-price-tag-svgrepo-com.svg": "/Bloodbank/static/media/free-price-tag-svgrepo-com.2263f60e4947a6416e51cfb282745067.svg",
+    "static/media/question-answer-help-svgrepo-com.svg": "/Bloodbank/static/media/question-answer-help-svgrepo-com.dd873d7c31cbd07800b7425da2837732.svg",
+    "index.html": "/Bloodbank/index.html",
+    "main.41889cde.css.map": "/Bloodbank/static/css/main.41889cde.css.map",
+    "main.5ce1824b.js.map": "/Bloodbank/static/js/main.5ce1824b.js.map",
+    "787.bd02f72e.chunk.js.map": "/Bloodbank/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41889cde.css",
+    "static/js/main.5ce1824b.js"
+  ]
+}
