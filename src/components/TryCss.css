@@ -1,0 +1,99 @@
+html {
+    --maincolor: rgb(255, 33, 107);
+}
+
+.ContactUs_Section1_H2 {
+    color: var(--maincolor);
+    font-family: serif;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.ContactUs_Section1_P {
+    font-size: large;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(97, 91, 91);
+    width: 60%;
+    margin: auto;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.ContactUs_Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+.ContactUs_Form_Div1 {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+
+.ContactUs_Form_Div1_inputs {
+    height: 40px;
+    border-top: black solid 1px;
+    border-bottom: black solid 1px;
+    border-right: 0;
+    border-left: 0;
+    font-size: larger;
+    padding: 10px;
+    outline: none;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s ease-in-out;
+}
+
+.ContactUs_Form_Div1_inputs:hover,
+.ContactUs_Form_Div1_inputs:focus {
+    height: 50px;
+    border: none;
+    border-top: var(--maincolor) solid 1.8px;
+    border-bottom: var(--maincolor) solid 1.8px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.ContactUs_Form_Textarea {
+    height: 200px;
+    width: 520px;
+    padding: 10px;
+    font-size: larger;
+    color: rgba(36, 33, 33, 0.911);
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ContactUs_Form_Textarea:hover,
+.ContactUs_Form_Textarea:focus {
+    border: none;
+    border-top: var(--maincolor) solid 3px;
+    border-bottom: var(--maincolor) solid 3px;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.4s;
+}
+
+.ContactUs_Form_btn {
+    padding: 10px 35px;
+    color: var(--maincolor);
+    border: var(--maincolor) solid 1.6px;
+    background-color: white;
+    font-size: 16px;
+    transition: all 0.4s;
+}
+
+.ContactUs_Form_btn:hover {
+    color: white;
+    border: rgb(215, 209, 209) solid 1.6px;
+    border-radius: 7px;
+    background-color: var(--maincolor);
+    box-shadow: cyan 0.3px 0.2px 0.2px 0.1px;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.Try2_Container{
+   display: flex;
+   flex-direction: column;
+   width: 90%;
+   margin: auto;
+}
+.Try2_H_Div{
+    display:flex;
+    color: rgb(211, 9, 9);
+}
+.Try2_List{
+    display: flex;
+}
